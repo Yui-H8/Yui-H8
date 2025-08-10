@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yui-H8
-- 👀 I’m interested in SQL and visualization.
-- 🌱 I’m currently learning Data analysis and visualization.
+- 👀 I’m a data analyst.
+- 🌱 My policy is "data imformed decision making".
 - 💞️ I’m looking to collaborate on analysis from multiple perspectives.
 - 📫 How to reach me : Linktin(https://www.linkedin.com/in/yui-h-955020182/)
 - 😄 Pronouns: Yui (Japanese)
