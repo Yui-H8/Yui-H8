@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yui-H8
-- 👀 I’m a data analyst.
+- 👀 I’m a Data Analyst with T-type skills.
 - 🌱 My policy is "data imformed decision making".
 - 💞️ I’m looking to collaborate on analysis from multiple perspectives.
 - 📫 How to reach me : Linktin(https://www.linkedin.com/in/yui-h-955020182/)
