@@ -2,7 +2,7 @@
 - 👀 I’m a Data Analyst with T-type skills.
 - 🌱 My policy is "data imformed decision making".
 - 💞️ I’m looking to collaborate on analysis from multiple perspectives.
-- 📫 How to reach me : Linktin(https://www.linkedin.com/in/yui-h-955020182/)
+- 📫 How to reach me : Linkedin (https://www.linkedin.com/in/yui-h-955020182/)
 - 😄 Pronouns: Yui (Japanese)
 - ⚡ Fun fact: High-cocoa chocolate, beauty and health, online shopping, Japanese comics.
 <!---
